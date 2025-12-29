@@ -1,0 +1,17 @@
+{
+  "name": "gemini",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "start": "vite"
+  },
+  "dependencies": {
+    "@mediapipe/camera_utils": "^0.3.1675466862",
+    "@mediapipe/hands": "^0.4.1675469240",
+    "three": "^0.182.0"
+  },
+  "devDependencies": {
+    "vite": "^5.1.0"
+  }
+}
